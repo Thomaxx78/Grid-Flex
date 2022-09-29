@@ -1,0 +1,107 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.block {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+.gauche {
+    width: 57.2%;
+    height: 100%;
+}
+
+.mid{
+    width: 14.30%;
+    height: 100%;
+    background-color: black;
+}
+
+.droite{
+    width: 28.5%;
+    height: 100%;
+}
+
+.lestrois {
+    display: flex;
+    height: 20%;
+}
+
+.red {
+    background-color: red;
+    width: 25%;
+}
+
+.blue {
+    background-color: blue;
+    width: 25%;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 50%;
+}
+
+.lesdeux {
+    display: flex;
+    height: 20%;
+}
+
+.pink {
+    background-color: pink;
+    width: 75%;
+}
+
+.purple {
+    background-color: purple;
+    width: 25%;
+}
+
+.bas {
+    height: 20%;
+}
+
+.avantbas {
+    display: flex;
+    height: 40%;
+}
+
+.green {
+    background-color: green;
+    width: 50%;
+}
+
+.brown {
+    background-color: brown;
+    width: 50%;
+}
+
+.grey {
+    background-color: grey;
+    height: 100%;
+}
+
+.basdroit {
+    display: flex;
+    height: 60%;
+}
+
+.onze {
+    background-color: aquamarine;
+    width: 50%;
+}
+
+.douze {
+    background-color: cornflowerblue;
+    width: 50%;
+}
+
+.haut {
+    height: 40%;
+    width: 100%;
+    background-color: beige;
+}
